@@ -1,0 +1,12 @@
+Admin controls for Cicada
+1. Create user accounts
+2. Add employee records in the application - with basic informational particulars
+3. Assign a tag to each employee based on experience - Fresher, Junior, Senior
+4. Assign a tag to each employee based on performance - Bad, Average, Good, Excellent
+5. Mark current status of an employee - Active or Inactive (Dismissed)
+6. Apply sorting and filtering on the employee records page in order to view the number of employees in each segment and multiple segments together
+
+Output
+2. Designing an application using flow diagrams
+4. Data Management using databases - MySQL
+5. Using frameworks - Django
